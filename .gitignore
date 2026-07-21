@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+.cache/
+.agents/
+
+build_tools/build/
+build_tools/dist/
+release/
+
+log.txt
+settings.json
