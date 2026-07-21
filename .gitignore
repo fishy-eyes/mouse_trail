@@ -1,4 +1,4 @@
-__pycache__/
+﻿__pycache__/
 *.py[cod]
 
 .cache/
@@ -9,4 +9,3 @@ build_tools/dist/
 release/
 
 log.txt
-settings.json
